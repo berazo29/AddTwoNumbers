@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.17)
-project(Ctesting C)
+cmake_minimum_required(VERSION 3.10)
+project(AddTwoNumbers C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Ctesting main.c)
+add_executable(AddTwoNumbers main.c)
