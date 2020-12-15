@@ -191,6 +191,6 @@ Temporary Items
 # Local
 pa5_autograder/
 .idea/
-
+out/
 # Binary
 main
